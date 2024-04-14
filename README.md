@@ -1,6 +1,6 @@
 # ECommerce-MERN
 
-Features
+Features :
 Full-Featured Shopping Cart: Seamless shopping cart functionality for users to add, remove, and manage products.
 Product Reviews and Ratings: Users can leave reviews and provide ratings for products.
 Top Products Carousel: Display a carousel of top-rated or featured products.
